@@ -1,6 +1,41 @@
 # SmartCargo 🚛
 ### IoT-Enabled Self-Protecting Cargo Container for Intelligent Goods Transportation
 
+## 🤝 Sponsorship & Collaboration
+
+**SmartCargo is open to sponsorships, partnerships, and collaborations!**
+
+We are looking for companies, startups, organisations, and individuals who would be interested in supporting the development of this project.
+
+We welcome sponsorship and support from organisations across different industries, including technology, electronics, IoT, logistics, manufacturing, and education.
+
+### What We Are Looking For
+
+We are open to any form of support, including:
+
+- **Financial Sponsorship:** Funding to support prototype development, testing, and project improvements.
+- **Hardware Sponsorship:** ESP32 boards, sensors, electronic components, displays, and other development equipment.
+- **Equipment Support:** Tools, testing equipment, development kits, and other resources.
+- **Technical Support:** Engineering guidance, technical expertise, and mentorship.
+- **Industry Collaboration:** Opportunities to collaborate with companies working in IoT, embedded systems, smart logistics, and related fields.
+
+We are not limited to any particular company, industry, or sponsorship category. Any organisation or individual interested in supporting student innovation and technology development is welcome to connect with us.
+
+### Why Sponsor SmartCargo?
+
+- Support a student-led engineering and innovation project.
+- Contribute to the development of an affordable IoT-based cargo protection system.
+- Encourage practical learning and real-world engineering applications.
+- Explore potential collaboration in IoT, embedded systems, and intelligent logistics.
+
+📩 **Interested in sponsoring or collaborating?**
+
+Feel free to connect with us through GitHub or reach out directly.
+
+**Every contribution, whether financial, technical, or hardware-based, is appreciated.**
+
+---
+
 SmartCargo is an IoT-based cargo monitoring and protection system designed to improve the safety of goods during transportation. It uses sensors and an ESP32 microcontroller to monitor environmental conditions, detect physical disturbances, and identify unauthorized access.
 
 When abnormal conditions are detected, the system can alert the driver through a local display, buzzer, and warning LEDs. It can also trigger protective actions, such as activating a ventilation fan when the temperature exceeds a predefined threshold, while sending monitoring data to a remote dashboard over Wi-Fi.
